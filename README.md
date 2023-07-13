@@ -1,6 +1,6 @@
 # vue-project-test
 
-O principal objetivo desse projeto é a aplicação e estudo aprofundado de todos os conceitos relacionados ao Vue.js.
+The main purpose of this project is to apply and study in-depth all the concepts related to Vue.js.
 
 ## Project Setup
 
